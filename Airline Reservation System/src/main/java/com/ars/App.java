@@ -17,12 +17,6 @@ import com.ars.serviceImpl.AdminServiceImpl;
 import com.ars.serviceImpl.AirlineServiceImpl;
 import com.ars.serviceImpl.PassengerServiceImpl;
 
-/*
-======================================== AIRLINE RESERVATION SYSTEM PROJECT======================================
-											Author: Arpan Sadhukhan
-*/
-
-
 public class App 
 {
     public static void main( String[] args )
